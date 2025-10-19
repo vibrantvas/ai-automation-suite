@@ -1,6 +1,6 @@
 # Contributing to AI AUTOMATION SUITE
 
-First off, thank you for considering contributing to AI AUTOMATION SUITE! It's people like you that make this project such a great tool.
+First off, thank you for considering contributing to the AI AUTOMATION SUITE! It's people like you that make this project such a great tool.
 
 ## Code of Conduct
 
