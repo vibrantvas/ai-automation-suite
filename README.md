@@ -226,10 +226,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Ashlee McCarty** - Founder, Vibrant VA Services  
 Systems Integration Extraordinaire & AI Management Expert
 
-- 📧 Email: vibrantvaservices@gmail.com
-- 💼 LinkedIn: linkedin.com/in/vibrantvas
-- 🐙 Credentials: 
-- 📂 Portfolio: github.com/vibrantvas/portfolio
+- 📧 [Email](mailto:vibrantvaservices@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/vibrantvas)
+- 🐙 [Credentials](credential.net/profile/ash-devry/wallet)
+- 📂 [Portfolio](github.com/vibrantvas/portfolio)
 
 ## Acknowledgments
 
@@ -245,10 +245,5 @@ If this project helped you save time and reduce manual work, please ⭐ star the
 ---
 
 *Made with 💜 by Vibrant VA Services*  
-*Empowering businesses through intelligent automation*
-"""
-
-with open('README_AI_Project.md', 'w', encoding='utf-8') as f:
-    f.write(ai_readme)
-
-print("✅ Created: README_AI_Project.md")
+**Empowering businesses through intelligent automation**
+<div>
